@@ -22,7 +22,7 @@
           ...useBlockProps(),
           className: 'bloxample-dynamic-meta-card',
         },
-        createElement(CardHeader, null, 'Dynamic Block'),
+        createElement(CardHeader, null, 'Dynamic Meta Block'),
         createElement(
           CardBody,
           {
