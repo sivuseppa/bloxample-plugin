@@ -3,7 +3,7 @@
    * Load WordPress dependencies
    * This is the same as importing the dependencies in an ES2015+ environment
    */
-  const { createElement } = window.wp.element.createElement;
+  const { createElement } = window.wp.element;
   const { RichText, useBlockProps } = window.wp.blockEditor;
   const { registerBlockType } = window.wp.blocks;
   const { Flex, Card, CardBody, CardHeader } = window.wp.components;
