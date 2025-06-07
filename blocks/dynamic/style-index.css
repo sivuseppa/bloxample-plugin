@@ -1,0 +1,11 @@
+/* Global styles for the dynamic block */
+
+div.sivu-block-dynamic {
+  color: rgb(30, 30, 30);
+  position: relative;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 0px 1px;
+  outline: none;
+  border-radius: calc(7px);
+  background-color: #f9f9f9;
+  padding: 1rem;
+}

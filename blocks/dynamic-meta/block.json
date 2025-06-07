@@ -1,0 +1,18 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "bloxample/dynamic-meta",
+  "version": "0.1.0",
+  "title": "Dynamic meta block example",
+  "description": "An example of a dynamic block that uses meta data.",
+  "category": "bloxample",
+  "icon": "grid-view",
+  "attributes": {},
+  "supports": {},
+  "usesContext": ["postId", "postType"],
+  "textdomain": "dynamic-meta-block-example",
+  "editorScript": "file:./index.js",
+  "style": "file:./style-index.css",
+  "editorStyle": "file:./editor.css",
+  "render": "file:./render.php"
+}

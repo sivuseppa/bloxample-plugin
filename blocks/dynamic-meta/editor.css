@@ -1,0 +1,14 @@
+/* Editor styles for the dynamic meta block  */
+
+div.bloxample-dynamic-meta-card {
+  background-color: #f86666;
+}
+
+.bloxample-dynamic-meta-card .rich-text {
+  min-height: 6rem;
+  margin: 0.5rem;
+  padding: 0.7rem;
+  border: 1px solid lightgray;
+  border-radius: 0.2rem;
+  background-color: white;
+}

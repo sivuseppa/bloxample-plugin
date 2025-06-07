@@ -1,0 +1,14 @@
+/* Editor styles for the dynamic block  */
+
+div.bloxample-dynamic-card {
+  background-color: #f9f9f9;
+}
+
+.bloxample-dynamic-card .rich-text {
+  min-height: 6rem;
+  margin: 0.5rem;
+  padding: 0.7rem;
+  border: 1px solid lightgray;
+  border-radius: 0.2rem;
+  background-color: white;
+}

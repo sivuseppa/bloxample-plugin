@@ -1,0 +1,21 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "bloxample/basic",
+  "version": "0.1.0",
+  "title": "Basic block example",
+  "description": "An example of a basic static block.",
+  "category": "bloxample",
+  "icon": "grid-view",
+  "attributes": {
+    "content": {
+      "type": "string",
+      "default": ""
+    }
+  },
+  "supports": {},
+  "textdomain": "basic-block-example",
+  "editorScript": "file:./index.js",
+  "style": "file:./style-index.css",
+  "editorStyle": "file:./editor.css"
+}

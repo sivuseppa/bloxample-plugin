@@ -1,0 +1,14 @@
+/* Editor styles for the basic block  */
+
+div.bloxample-basic-card {
+  background-color: #55f7a9;
+}
+
+.bloxample-basic-card .rich-text {
+  min-height: 6rem;
+  margin: 0.5rem;
+  padding: 0.7rem;
+  border: 1px solid rgb(89, 189, 111);
+  border-radius: 0.2rem;
+  background-color: white;
+}
